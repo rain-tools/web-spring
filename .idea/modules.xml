@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Login.iml" filepath="$PROJECT_DIR$/.idea/modules/Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Login_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Login_main.iml" group="Login" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Login_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Login_test.iml" group="Login" />
       <module fileurl="file://$PROJECT_DIR$/.idea/web-spring.iml" filepath="$PROJECT_DIR$/.idea/web-spring.iml" />
     </modules>
   </component>
